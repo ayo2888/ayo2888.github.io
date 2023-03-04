@@ -1,6 +1,6 @@
 body {
 	margin: 0;
-	padding: 0;
+	padding: 50;
 	font-size: 18px;
 	color: var(--tg-theme-text-color);
 	background: var(--tg-theme-bg-color);
@@ -12,8 +12,9 @@ body {
 
 .inner {
 	display: grid;
-	grid-template-columns: 1fr ;
-	grid-template-rows: 400px 400px 400px;
+	grid-template-columns: 1fr;
+	grid-template-rows: 250px 250px 250px 250px 250px 250px ;
+	
 }
 
 .img {
@@ -26,10 +27,10 @@ body {
 
 .btn {
 	display: inline-block;
-	padding: 10px 20px;
+	padding: 10px 25px;
 	border: none;
 	background: rgb(248, 168, 24);
-	border-radius: 10px;
+	border-radius: 30px;
 	color: #fff;
 	text-transform: uppercase;
 	font-weight: 700;
