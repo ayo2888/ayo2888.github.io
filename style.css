@@ -13,7 +13,7 @@ body {
 .inner {
 	display: grid;
 	grid-template-columns: 1fr;
-	 grid-template-rows: 630px 600px 600px 600px;
+	 grid-template-rows: 330px 330px 330px 330px;
 	
 }
 
