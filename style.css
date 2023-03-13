@@ -1,6 +1,6 @@
 body {
 	margin: 5;
-	padding: 10;
+	padding: 10px;
 	font-size: 18px;
 	color: var(--tg-theme-text-color);
 	background: var(--tg-theme-bg-color);
